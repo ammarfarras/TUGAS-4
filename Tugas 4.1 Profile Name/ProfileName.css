@@ -1,0 +1,73 @@
+.body {
+    width: 55em;
+    margin: auto;
+}
+
+
+.poto {
+    width: 150px;
+    margin-left: 1em;
+    margin-top: 1em;
+}
+
+th {
+    font-size: 2em;
+    text-align: left;
+}
+
+.categories {
+    text-align: right;
+    margin-bottom: 4em;
+}
+
+.categories span {
+    text-decoration: underline;
+    font-weight: bold;
+}
+
+.isi profile {
+    padding-bottom: 7em;
+}
+
+.isi profile p {
+    padding: 3px 20px;
+}
+
+.video {
+    float: left;
+    border: 2.5px solid black;
+    margin-left: 1em;
+    height: 8em;
+}
+
+.video video {
+    width: 225px;
+}
+
+.image {
+    float: left;
+    border: 2px solid black;
+    padding: 5px;
+    margin-left: 8em    ;
+}
+
+.image img {
+    padding: 10px 10px;
+    width: 70px;
+    float: left;
+}
+
+.down {
+    float: right;
+    margin-left: 1em;
+}
+
+.down fieldset {
+    border: 2px solid black;
+}
+
+.link attachment {
+    margin-left: 50px;
+    width: 9em;
+    height: 5em;
+}
