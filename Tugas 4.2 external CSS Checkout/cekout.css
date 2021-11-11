@@ -1,0 +1,91 @@
+.satu{
+    border-collapse: collapse;
+     border:2px solid black;
+}
+
+
+
+.dua{
+    text-align: right;
+     width: 300px;
+}
+
+.tiga{
+    padding: 10px 10px;
+}
+
+.empat{
+    font-size:large;
+}
+
+.empatt{
+    font-size: small;
+     padding: 5px;
+}
+
+.empattt{
+    font-size: 18px;
+}
+
+.empatttt{
+    padding-bottom: 25px;
+}
+
+.lima{
+    padding: 50px 50px;
+}
+
+.enam{
+    background-color: rgb(177, 177, 177);
+     padding: 15px 15px;
+}
+
+.tujuh{
+    padding: 1px 0;
+}
+
+.delapan{
+    width:200px;
+}
+
+.sembilan{
+    text-align:right;
+}
+
+.sepuluh{
+    text-align:right;
+}
+
+.sebelas{
+    text-align:right;
+}
+
+.duabelas{
+    color: white;
+    
+}
+
+.tigabelas{
+    font-size:x-small
+}
+
+.empatbelas{
+    text-align: center;
+}
+
+.limabelas{
+    width: 120px;
+}
+
+.enambelas{
+    height: 200px;
+}
+
+.tujuhbelas{
+    width: 350px;
+     text-align: right;
+}
+
+.delapanbelas{
+    text-align: right;
+}
